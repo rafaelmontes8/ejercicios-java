@@ -1,0 +1,4 @@
+La carpeta Ex20rme1A contine el ejercicio JSP que no he llegado a terminar pero 
+he dejado planteado, no me funcionan muchas cosas.
+y en la carpeta ejercicios estan los demas ejercicios del examen.
+Gracias por su tiempo
